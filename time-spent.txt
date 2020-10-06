@@ -4,9 +4,9 @@ Start: 11:15 am 10/5/2020
 
 End:
 
-Total time:  
+Total time:  3.5 hours
 Conceptual Questions: 30 mins
 Async and Scripting Practice: 1.5 hours
-Broken App Code: 
+Broken App Code: 1.5 hours
 
 Target time: 10-15 hours
