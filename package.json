@@ -1,0 +1,23 @@
+{
+  "name": "broken-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyImMatt/springboard-broken-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyImMatt/springboard-broken-express-app/issues"
+  },
+  "homepage": "https://github.com/HeyImMatt/springboard-broken-express-app#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
